@@ -1,5 +1,7 @@
 # SportsWise / DI² — Evidence Index
 
+**Published by:** Grounded DI LLC · **Creator / operator:** Mark S. Weinstein
+
 SportsWise explores auditable sports decisions through evidence, scenario modeling, and resource allocation. This repository preserves a September 27, 2026 analytical case study of Phillies Game 162 qualification and Zack Wheeler's downstream pitching availability.
 
 **[Read the Game 162 report](SportsWise_Game162_Phillies_Playoffs_Report_and_Pitching_Decision_Intelligence.pdf)**
@@ -52,3 +54,11 @@ This is a historical analytical evidence record, not a live postseason tracker. 
 Ex-post resource redundancy also remains distinct from ex-ante decision quality: a hypothetical later result cannot by itself prove that an earlier resource decision was unreasonable.
 
 See the PDF's evidence audit and source notes for the complete claim boundaries.
+
+## Authorship, Provenance and Contact
+
+This SportsWise record was published by Grounded DI LLC under Mark S. Weinstein’s direction, with AI-assisted analysis and audit preparation. The September 27, 2026 publication commit and the report’s historical locks preserve the development and publication chronology.
+
+Copyright © 2026 Grounded DI LLC for its original materials. Third-party sources retain their respective rights. No open-source license or additional reuse permission is granted by this README.
+
+Commercial licensing, technical evaluation, and integration inquiries: [mark@groundeddi.com](mailto:mark@groundeddi.com).
